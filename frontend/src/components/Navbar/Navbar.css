@@ -41,6 +41,7 @@
 .navbar .active{
     padding: 2px;
     border-bottom: 2px solid #49557e;
+    color: tomato;
 }
 
 .navbar li{
